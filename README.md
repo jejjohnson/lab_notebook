@@ -5,28 +5,9 @@ This is my lab notebook of various topics that I'm interested in for my research
 ---
 ## Topics
 
-#### ML Concepts:
-
-* Bayesian Methods
-* Information Theory
-* Sleeper Concepts
-* Variational Inference
-
-#### Kernel Methods:
-
-* Basics
-* Gradients and Sensitivity
-
-#### Gaussian Processes:
-
-* Vanilla
-* Input Error Estimation
-* Sparse GPs
-* Variational GPs
-
-#### Invertible Flows:
-
-* Parametric Gaussianization
-* Normalizing Flows (TODO)
-* Generalized Divisive Normalization (TODO)
-
+* Anomaly Detection
+* Sensitivity Analysis
+* Deep Learning for Remote Sensing Images
+* Biophysical Parameter Estimation
+* Dependence Estimation
+* Earth Science Data Cubes
